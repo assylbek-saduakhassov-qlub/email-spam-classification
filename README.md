@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a Perceptron-based machine learning algorithm to classify spam emails. It includes functions for vocabulary creation, training, and testing of the model using a custom dataset.
-
+data is from SpamAssassin Public Corpus
 ## Features
 - File splitting for training and validation datasets.
 - Vocabulary creation based on word frequency thresholds.
